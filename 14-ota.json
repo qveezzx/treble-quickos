@@ -1,0 +1,11 @@
+{
+  "version": "v1.1.0 LOS rewrite.",
+  "date": "1725886097",
+  "variants": [
+    {
+      "name": "quickos-gapps-1.1-a14",
+      "size": "1765442204",
+      "url": "https://github.com/kaii-lb/treble_manifest/releases/download/v1.3/EverestOS_1_6_arm64_bgN.img.xz"
+    }
+  ]
+}
